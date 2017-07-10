@@ -2,7 +2,7 @@
 
 This is to keep track of things I do to learn machine learning approaches each day. The focus of this list will be on a "do it"  approach.
 </break>
-<b>July 8, 2017</b>
+<b>July 8, 2017<\b>
 1. http://www.sciencemag.org/news/2017/07/how-ai-detectives-are-cracking-open-black-box-deep-learning
 An article about how to interpret the deep learning techniques.
 
