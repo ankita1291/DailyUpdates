@@ -11,5 +11,7 @@ An article about how to interpret the deep learning techniques.
 2. Started work on assignment 2.
 
 <b> July 10, 2017 </b>
-1. Finished assignment2 . 
+1. Finished assignment2 . </break>
 2.Started with Reinforcement learning lectures by David Silver (University college of london) http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html.
+3. Started assignment Easy 21 from the above course.
+
