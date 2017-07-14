@@ -15,3 +15,7 @@ An article about how to interpret the deep learning techniques.
 2. Started with Reinforcement learning lectures by David Silver (University college of london) http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html.
 3. Started assignment Easy 21 from the above course.
 
+<b> 13 July, 2017 <b>
+I have decided to update this on a 3 day basis. As, starting an assignment and finishing it takes almost 2-3 days.
+1. Got an interesting project on eeg dataset. Would have to put other things on hold.
+
