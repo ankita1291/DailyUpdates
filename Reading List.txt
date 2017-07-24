@@ -2,5 +2,8 @@ Reading list for Reinforcement learning:
 1. http://www.davidqiu.com:8888/research/nature14236.pdf
 2. https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf
 3. https://arxiv.org/pdf/1511.06581.pdf
+4. https://arxiv.org/abs/1707.06203 Imagination-Augmented Agents for Deep Reinforcement Learning
+
+
 
 Reinforcement learning : An introduction(by Sutton) is perhaps the best resource , do this book in comjunction with David Silver's course. 
